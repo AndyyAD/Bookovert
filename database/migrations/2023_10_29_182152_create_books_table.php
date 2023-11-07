@@ -19,7 +19,6 @@ return new class extends Migration
             $table->string('genre');
             $table->text('description');
             $table->string('link');
-            $table->timestamps();
         });
     }
 

@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ asset('css/styles.css') }}">
 </head>
 
 <body style="background-color: #F8F6F4; font-family: 'Poppins', sans-serif;">
@@ -22,7 +23,7 @@
                     <a class="nav-link active" href="/about"> About </a>
                 </li>
             </ul>
-            <a class="navbar-brand fs-3 fw-bold" href="/"> Book<span style="color: orange;">o</span>vert </a>
+            <a class="navbar-brand fs-3 fw-bold" href="/"> Book<span style="color:orange;">o</span>vert </a>
         </div>
     </nav>
 
